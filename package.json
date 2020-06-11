@@ -1,0 +1,23 @@
+{
+  "name": "read-me-gen",
+  "version": "1.0.0",
+  "description": "A generator that prompts users for a good read me using node, inquire, and fs",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TheeLucyfer/Read-Me-Gen.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TheeLucyfer/Read-Me-Gen/issues"
+  },
+  "homepage": "https://github.com/TheeLucyfer/Read-Me-Gen#readme",
+  "dependencies": {
+    "file-system": "^2.2.2",
+    "inquirer": "^7.1.0"
+  }
+}
